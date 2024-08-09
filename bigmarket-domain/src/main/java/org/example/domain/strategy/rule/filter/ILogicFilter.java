@@ -1,4 +1,4 @@
-package org.example.domain.strategy.rule;
+package org.example.domain.strategy.rule.filter;
 
 
 import org.example.domain.strategy.model.entity.RuleActionEntity;
