@@ -1,0 +1,43 @@
+24-08-12.16:28:16.049 [main            ] INFO  LogicTreeTest          - Starting LogicTreeTest using Java 17.0.9 on hxy with PID 31272 (started by huixinyuan in D:\桌面\大营销平台\bigmarket\bigmarket\bigmarket-app)
+24-08-12.16:28:16.049 [main            ] INFO  LogicTreeTest          - The following 1 profile is active: "dev"
+24-08-12.16:28:16.628 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-08-12.16:28:16.630 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-08-12.16:28:16.652 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+24-08-12.16:28:17.546 [main            ] INFO  Version                - Redisson 3.23.4
+24-08-12.16:28:17.790 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.16:28:17.916 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.16:28:19.033 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-08-12.16:28:19.077 [main            ] INFO  LogicTreeTest          - Started LogicTreeTest in 3.339 seconds (JVM running for 10.102)
+24-08-12.16:28:19.458 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_lock code:0000
+24-08-12.16:28:19.458 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_stock code:0001
+24-08-12.16:28:19.459 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_luck_award code:0001
+24-08-12.16:28:19.525 [main            ] INFO  LogicTreeTest          - 测试结果：{"awardId":101,"awardRuleValue":"1,100"}
+24-08-12.21:08:33.599 [main            ] INFO  LogicTreeTest          - Starting LogicTreeTest using Java 17.0.9 on hxy with PID 6560 (started by huixinyuan in D:\桌面\大营销平台\bigmarket\bigmarket\bigmarket-app)
+24-08-12.21:08:33.600 [main            ] INFO  LogicTreeTest          - The following 1 profile is active: "dev"
+24-08-12.21:08:34.358 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-08-12.21:08:34.361 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-08-12.21:08:34.389 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+24-08-12.21:08:35.388 [main            ] INFO  Version                - Redisson 3.23.4
+24-08-12.21:08:35.669 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.21:08:35.793 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.21:08:37.031 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-08-12.21:08:37.069 [main            ] INFO  LogicTreeTest          - Started LogicTreeTest in 3.909 seconds (JVM running for 4.647)
+24-08-12.21:08:37.434 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_lock code:0000
+24-08-12.21:08:37.435 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_stock code:0001
+24-08-12.21:08:37.435 [main            ] INFO  DecisionTreeEngine     - 决策树引擎【决策树规则；增加dall-e-3画图模型】treeId:100000001 node:rule_luck_award code:0001
+24-08-12.21:08:37.538 [main            ] INFO  LogicTreeTest          - 测试结果：{"awardId":101,"awardRuleValue":"1,100"}
+24-08-12.23:17:03.939 [main            ] INFO  StrategyRepositoryTest - Starting StrategyRepositoryTest using Java 17.0.9 on hxy with PID 22116 (started by huixinyuan in D:\桌面\大营销平台\bigmarket\bigmarket\bigmarket-app)
+24-08-12.23:17:03.940 [main            ] INFO  StrategyRepositoryTest - The following 1 profile is active: "dev"
+24-08-12.23:17:04.784 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-08-12.23:17:04.786 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-08-12.23:17:04.830 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 0 Redis repository interfaces.
+24-08-12.23:17:06.014 [main            ] INFO  Version                - Redisson 3.23.4
+24-08-12.23:17:06.309 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.23:17:06.427 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 116.198.240.105/116.198.240.105:16379
+24-08-12.23:17:07.600 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-08-12.23:17:07.645 [main            ] INFO  StrategyRepositoryTest - Started StrategyRepositoryTest in 4.088 seconds (JVM running for 4.807)
+24-08-12.23:17:08.142 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-08-12.23:17:08.600 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-08-12.23:17:08.808 [main            ] INFO  StrategyRepositoryTest - 测试结果：{"treeDesc":"规则树","treeId":"tree_lock","treeName":"规则树","treeNodeMap":{"rule_lock":{"ruleDesc":"限定用户已完成N次抽奖后解锁","ruleKey":"rule_lock","ruleValue":"1","treeId":"tree_lock","treeNodeLineVOList":[{"ruleLimitType":"EQUAL","ruleLimitValue":"ALLOW","ruleNodeFrom":"rule_lock","ruleNodeTo":"rule_stock","treeId":"tree_lock"},{"ruleLimitType":"EQUAL","ruleLimitValue":"TAKE_OVER","ruleNodeFrom":"rule_lock","ruleNodeTo":"rule_luck_award","treeId":"tree_lock"}]},"rule_stock":{"ruleDesc":"库存扣减规则","ruleKey":"rule_stock","treeId":"tree_lock","treeNodeLineVOList":[{"ruleLimitType":"EQUAL","ruleLimitValue":"TAKE_OVER","ruleNodeFrom":"rule_stock","ruleNodeTo":"rule_luck_award","treeId":"tree_lock"}]},"rule_luck_award":{"ruleDesc":"兜底奖品随机积分","ruleKey":"rule_luck_award","ruleValue":"1,100","treeId":"tree_lock"}},"treeRootRuleNode":"rule_lock"}
+24-08-12.23:17:08.850 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-08-12.23:17:08.902 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
